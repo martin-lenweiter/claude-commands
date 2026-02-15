@@ -1,0 +1,6 @@
+# Track only what matters
+*
+!.gitignore
+!CLAUDE.md
+!commands/
+!commands/**
